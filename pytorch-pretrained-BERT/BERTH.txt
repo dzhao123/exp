@@ -1,0 +1,8 @@
+ Epoch 0 Training step 6000 loss 2532.384033 this epoch time 1:09:36.345310
+ Epoch 0 Training step 6000 loss 2713.056152 this epoch time 1:08:11.702919
+ Epoch 0 Training step 1 loss 0.988697 this epoch time 0:00:00.603893
+ Epoch 0 Training step 8000 loss 3122.662354 this epoch time 0:55:08.353086
+ Epoch 0 Training step 8000 loss 3313.622070 this epoch time 0:41:20.912477
+ Epoch 0 Training step 10000 loss 3513.276123 this epoch time 0:51:48.450003
+ Epoch 0 Training step 1 loss 0.984515 this epoch time 0:00:00.417161
+ Epoch 0 Training step 1 loss 0.980790 this epoch time 0:00:00.424089
