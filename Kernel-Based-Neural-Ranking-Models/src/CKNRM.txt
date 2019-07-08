@@ -1,0 +1,462 @@
+ Epoch 0 Training step 1000 loss 780.833984 this epoch time 0:02:57.390555
+best dev-- mrr 0.041505 map 0.040790; test-- mrr 0.041505 map 0.040790
+ Epoch 0 Training step 1000 loss 780.833984 this epoch time 0:02:57.390555best dev-- mrr 0.041505 map 0.040790; test-- mrr 0.041505 map 0.040790 Epoch 0 Training step 1000 loss 609.459717 this epoch time 0:02:22.895718
+best dev-- mrr 0.163896 map 0.161550; test-- mrr 0.163896 map 0.161550
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 2000 loss 284.635864 this epoch time 0:37:43.908615
+best dev-- mrr 0.203848 map 0.201031; test-- mrr 0.203848 map 0.201031
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 3000 loss 236.696777 this epoch time 1:12:58.013860
+best dev-- mrr 0.214483 map 0.212049; test-- mrr 0.214483 map 0.212049
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 4000 loss 216.594162 this epoch time 1:48:04.631779
+best dev-- mrr 0.226053 map 0.223015; test-- mrr 0.226053 map 0.223015
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 5000 loss 197.022171 this epoch time 2:23:17.363652
+best dev-- mrr 0.232013 map 0.229388; test-- mrr 0.232013 map 0.229388
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 6000 loss 191.996353 this epoch time 2:58:22.044664
+best dev-- mrr 0.233217 map 0.230489; test-- mrr 0.233217 map 0.230489
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 7000 loss 180.132690 this epoch time 3:33:24.630109
+best dev-- mrr 0.235557 map 0.232670; test-- mrr 0.235557 map 0.232670
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 8000 loss 178.672165 this epoch time 4:08:28.360789
+best dev-- mrr 0.240187 map 0.237198; test-- mrr 0.240187 map 0.237198
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 9000 loss 169.189545 this epoch time 4:43:37.971593
+best dev-- mrr 0.241685 map 0.238880; test-- mrr 0.241685 map 0.238880
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 10000 loss 163.562378 this epoch time 5:18:40.237317
+NOT the best dev-- mrr 0.241358 map 0.238379; test-- mrr 0.241358 map 0.238379
+ Epoch 0 Training step 11000 loss 168.155762 this epoch time 5:53:27.212731
+best dev-- mrr 0.242074 map 0.239193; test-- mrr 0.242074 map 0.239193
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 12000 loss 154.981476 this epoch time 6:28:17.001857
+best dev-- mrr 0.243507 map 0.240681; test-- mrr 0.243507 map 0.240681
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 13000 loss 142.743301 this epoch time 7:03:25.034670
+best dev-- mrr 0.244498 map 0.241679; test-- mrr 0.244498 map 0.241679
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 14000 loss 154.793091 this epoch time 7:38:32.090166
+best dev-- mrr 0.248084 map 0.245287; test-- mrr 0.248084 map 0.245287
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 15000 loss 142.094269 this epoch time 8:13:40.803773
+ Epoch 0 Training step 1000 loss 696.579163 this epoch time 0:06:23.948309
+best dev-- mrr 0.141490 map 0.139355; test-- mrr 0.141490 map 0.139355
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 2000 loss 332.463257 this epoch time 0:45:43.632436
+best dev-- mrr 0.194871 map 0.192179; test-- mrr 0.194871 map 0.192179
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 1000 loss 612.777405 this epoch time 0:06:25.656539
+best dev-- mrr 0.161430 map 0.159497; test-- mrr 0.161430 map 0.159497
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 2000 loss 302.921753 this epoch time 0:45:52.014073
+best dev-- mrr 0.202343 map 0.199869; test-- mrr 0.202343 map 0.199869
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 1000 loss 462.850220 this epoch time 0:06:23.395704
+ Epoch 0 Training step 1000 loss 744.846985 this epoch time 0:07:41.389236
+best dev-- mrr 0.081129 map 0.079573; test-- mrr 0.081129 map 0.079573
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 2000 loss 524.728333 this epoch time 0:56:08.948178
+best dev-- mrr 0.114065 map 0.111621; test-- mrr 0.114065 map 0.111621
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 1000 loss 479.491974 this epoch time 0:08:59.365403
+ Epoch 0 Training step 1000 loss 578.444641 this epoch time 0:09:01.413677
+best dev-- mrr 0.185660 map 0.182929; test-- mrr 0.185660 map 0.182929
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 2000 loss 271.349274 this epoch time 1:08:27.701979
+best dev-- mrr 0.211692 map 0.208952; test-- mrr 0.211692 map 0.208952
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 3000 loss 237.457336 this epoch time 2:07:52.626929
+best dev-- mrr 0.220450 map 0.217573; test-- mrr 0.220450 map 0.217573
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 4000 loss 222.956635 this epoch time 3:07:18.851022
+best dev-- mrr 0.225735 map 0.222679; test-- mrr 0.225735 map 0.222679
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 5000 loss 204.389679 this epoch time 4:06:52.103667
+best dev-- mrr 0.229805 map 0.226750; test-- mrr 0.229805 map 0.226750
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 6000 loss 201.184265 this epoch time 5:06:11.612917
+NOT the best dev-- mrr 0.229848 map 0.226690; test-- mrr 0.229848 map 0.226690
+ Epoch 0 Training step 7000 loss 188.913010 this epoch time 6:05:19.759921
+best dev-- mrr 0.230728 map 0.227534; test-- mrr 0.230728 map 0.227534
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 8000 loss 188.796310 this epoch time 7:04:35.179670
+best dev-- mrr 0.237280 map 0.233841; test-- mrr 0.237280 map 0.233841
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 9000 loss 177.849548 this epoch time 8:03:58.126161
+NOT the best dev-- mrr 0.232308 map 0.229338; test-- mrr 0.232308 map 0.229338
+ Epoch 0 Training step 10000 loss 175.445587 this epoch time 9:03:03.596519
+NOT the best dev-- mrr 0.235910 map 0.232947; test-- mrr 0.235910 map 0.232947
+ Epoch 0 Training step 11000 loss 177.631439 this epoch time 10:02:27.201574
+NOT the best dev-- mrr 0.234985 map 0.232085; test-- mrr 0.234985 map 0.232085
+ Epoch 0 Training step 12000 loss 162.977371 this epoch time 11:02:02.054588
+best dev-- mrr 0.238938 map 0.235959; test-- mrr 0.238938 map 0.235959
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 13000 loss 152.716995 this epoch time 12:01:32.413065
+NOT the best dev-- mrr 0.237928 map 0.235103; test-- mrr 0.237928 map 0.235103
+ Epoch 0 Training step 14000 loss 165.877029 this epoch time 13:01:04.103906
+NOT the best dev-- mrr 0.237823 map 0.235263; test-- mrr 0.237823 map 0.235263
+ Epoch 0 Training step 15000 loss 151.347061 this epoch time 14:00:39.938586
+best dev-- mrr 0.239698 map 0.236671; test-- mrr 0.239698 map 0.236671
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 16000 loss 157.322098 this epoch time 15:00:24.165047
+best dev-- mrr 0.240309 map 0.237091; test-- mrr 0.240309 map 0.237091
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 17000 loss 151.892380 this epoch time 15:59:57.142512
+best dev-- mrr 0.239722 map 0.237137; test-- mrr 0.239722 map 0.237137
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 18000 loss 146.591309 this epoch time 16:59:23.998226
+NOT the best dev-- mrr 0.238767 map 0.235689; test-- mrr 0.238767 map 0.235689
+ Epoch 0 Training step 19000 loss 146.414230 this epoch time 17:58:51.397222
+NOT the best dev-- mrr 0.237472 map 0.234432; test-- mrr 0.237472 map 0.234432
+ Epoch 0 Training step 20000 loss 138.290939 this epoch time 18:58:16.115491
+NOT the best dev-- mrr 0.240011 map 0.236975; test-- mrr 0.240011 map 0.236975
+ Epoch 0 Training step 21000 loss 142.503693 this epoch time 19:57:31.923185
+NOT the best dev-- mrr 0.239945 map 0.237052; test-- mrr 0.239945 map 0.237052
+ Epoch 0 Training step 22000 loss 140.327972 this epoch time 20:56:55.518606
+best dev-- mrr 0.241695 map 0.238931; test-- mrr 0.241695 map 0.238931
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 23000 loss 132.818527 this epoch time 21:56:32.459947
+NOT the best dev-- mrr 0.238207 map 0.235483; test-- mrr 0.238207 map 0.235483
+ Epoch 0 Training step 24000 loss 132.626724 this epoch time 22:55:56.685641
+ Epoch 0 Training step 1000 loss 598.623718 this epoch time 0:07:41.627233
+best dev-- mrr 0.183271 map 0.180758; test-- mrr 0.183271 map 0.180758
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 2000 loss 264.621796 this epoch time 0:56:07.533508
+best dev-- mrr 0.222447 map 0.219516; test-- mrr 0.222447 map 0.219516
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 3000 loss 222.795166 this epoch time 1:44:26.938684
+best dev-- mrr 0.225469 map 0.222671; test-- mrr 0.225469 map 0.222671
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 4000 loss 208.223572 this epoch time 2:32:42.120824
+best dev-- mrr 0.235690 map 0.232744; test-- mrr 0.235690 map 0.232744
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 5000 loss 189.968597 this epoch time 3:21:02.202285
+best dev-- mrr 0.239552 map 0.236745; test-- mrr 0.239552 map 0.236745
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 6000 loss 186.183121 this epoch time 4:09:29.555192
+best dev-- mrr 0.240631 map 0.237818; test-- mrr 0.240631 map 0.237818
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 7000 loss 173.045639 this epoch time 4:57:57.823284
+best dev-- mrr 0.244979 map 0.241963; test-- mrr 0.244979 map 0.241963
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 8000 loss 174.073807 this epoch time 5:46:24.508468
+best dev-- mrr 0.245777 map 0.243114; test-- mrr 0.245777 map 0.243114
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 9000 loss 164.967865 this epoch time 6:34:53.937245
+best dev-- mrr 0.249515 map 0.246368; test-- mrr 0.249515 map 0.246368
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 10000 loss 159.869522 this epoch time 7:23:12.587878
+NOT the best dev-- mrr 0.249131 map 0.246081; test-- mrr 0.249131 map 0.246081
+ Epoch 0 Training step 11000 loss 162.816666 this epoch time 8:11:37.969080
+NOT the best dev-- mrr 0.248736 map 0.245806; test-- mrr 0.248736 map 0.245806
+ Epoch 0 Training step 12000 loss 150.316727 this epoch time 9:00:02.180024
+best dev-- mrr 0.252926 map 0.250047; test-- mrr 0.252926 map 0.250047
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 13000 loss 138.291336 this epoch time 9:48:32.995830
+NOT the best dev-- mrr 0.252584 map 0.249290; test-- mrr 0.252584 map 0.249290
+ Epoch 0 Training step 14000 loss 149.821518 this epoch time 10:36:46.905416
+best dev-- mrr 0.255102 map 0.252036; test-- mrr 0.255102 map 0.252036
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 15000 loss 138.239334 this epoch time 11:24:58.409186
+NOT the best dev-- mrr 0.253940 map 0.250786; test-- mrr 0.253940 map 0.250786
+ Epoch 0 Training step 16000 loss 142.008041 this epoch time 12:13:13.695274
+best dev-- mrr 0.255658 map 0.252522; test-- mrr 0.255658 map 0.252522
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 17000 loss 136.612732 this epoch time 13:01:36.478711
+best dev-- mrr 0.257129 map 0.254233; test-- mrr 0.257129 map 0.254233
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 18000 loss 130.745285 this epoch time 13:49:57.419619
+best dev-- mrr 0.258158 map 0.255147; test-- mrr 0.258158 map 0.255147
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 19000 loss 131.862396 this epoch time 14:38:18.920845
+best dev-- mrr 0.258411 map 0.255365; test-- mrr 0.258411 map 0.255365
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 20000 loss 121.742012 this epoch time 15:26:45.753617
+NOT the best dev-- mrr 0.257135 map 0.254214; test-- mrr 0.257135 map 0.254214
+ Epoch 0 Training step 21000 loss 125.465187 this epoch time 16:15:00.879985
+best dev-- mrr 0.259200 map 0.256195; test-- mrr 0.259200 map 0.256195
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 22000 loss 123.384796 this epoch time 17:03:25.471997
+best dev-- mrr 0.259511 map 0.256534; test-- mrr 0.259511 map 0.256534
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 23000 loss 116.524178 this epoch time 17:51:47.365529
+NOT the best dev-- mrr 0.256879 map 0.253787; test-- mrr 0.256879 map 0.253787
+ Epoch 0 Training step 24000 loss 119.749947 this epoch time 18:39:58.803610
+best dev-- mrr 0.260177 map 0.257238; test-- mrr 0.260177 map 0.257238
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 25000 loss 113.519272 this epoch time 19:28:04.818255
+ Epoch 0 Training step 1000 loss 652.049194 this epoch time 0:07:41.739689
+best dev-- mrr 0.138689 map 0.136693; test-- mrr 0.138689 map 0.136693
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 2000 loss 315.859863 this epoch time 0:56:12.018180
+best dev-- mrr 0.192543 map 0.190017; test-- mrr 0.192543 map 0.190017
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 3000 loss 256.318390 this epoch time 1:44:39.310475
+best dev-- mrr 0.207543 map 0.205147; test-- mrr 0.207543 map 0.205147
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 4000 loss 229.291611 this epoch time 2:33:10.371579
+best dev-- mrr 0.215101 map 0.212489; test-- mrr 0.215101 map 0.212489
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 5000 loss 210.152481 this epoch time 3:21:36.301900
+best dev-- mrr 0.222206 map 0.219324; test-- mrr 0.222206 map 0.219324
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 6000 loss 206.471054 this epoch time 4:09:54.894271
+best dev-- mrr 0.223161 map 0.220293; test-- mrr 0.223161 map 0.220293
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 7000 loss 190.436172 this epoch time 4:58:26.627264
+best dev-- mrr 0.223655 map 0.220807; test-- mrr 0.223655 map 0.220807
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 8000 loss 189.785568 this epoch time 5:47:01.101740
+best dev-- mrr 0.226019 map 0.223212; test-- mrr 0.226019 map 0.223212
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 9000 loss 179.680923 this epoch time 6:35:34.283995
+best dev-- mrr 0.226919 map 0.224048; test-- mrr 0.226919 map 0.224048
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 10000 loss 173.413712 this epoch time 7:23:58.050739
+best dev-- mrr 0.230208 map 0.227446; test-- mrr 0.230208 map 0.227446
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 11000 loss 175.798325 this epoch time 8:12:14.185598
+NOT the best dev-- mrr 0.228630 map 0.225777; test-- mrr 0.228630 map 0.225777
+ Epoch 0 Training step 12000 loss 163.738815 this epoch time 9:00:34.621210
+best dev-- mrr 0.231599 map 0.228884; test-- mrr 0.231599 map 0.228884
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 13000 loss 153.069031 this epoch time 9:49:06.918789
+NOT the best dev-- mrr 0.231092 map 0.228271; test-- mrr 0.231092 map 0.228271
+ Epoch 0 Training step 14000 loss 163.687225 this epoch time 10:37:38.979807
+NOT the best dev-- mrr 0.227439 map 0.224875; test-- mrr 0.227439 map 0.224875
+ Epoch 0 Training step 15000 loss 150.325562 this epoch time 11:26:09.987662
+best dev-- mrr 0.233704 map 0.230782; test-- mrr 0.233704 map 0.230782
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 16000 loss 157.058548 this epoch time 12:14:48.991356
+best dev-- mrr 0.236917 map 0.234295; test-- mrr 0.236917 map 0.234295
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 17000 loss 148.975311 this epoch time 13:03:25.107269
+NOT the best dev-- mrr 0.234735 map 0.232220; test-- mrr 0.234735 map 0.232220
+ Epoch 0 Training step 18000 loss 147.268616 this epoch time 13:51:55.311029
+NOT the best dev-- mrr 0.233673 map 0.230824; test-- mrr 0.233673 map 0.230824
+ Epoch 0 Training step 19000 loss 144.006668 this epoch time 14:40:24.242536
+NOT the best dev-- mrr 0.234871 map 0.232059; test-- mrr 0.234871 map 0.232059
+ Epoch 0 Training step 20000 loss 135.507355 this epoch time 15:28:50.879672
+NOT the best dev-- mrr 0.234224 map 0.231549; test-- mrr 0.234224 map 0.231549
+ Epoch 0 Training step 21000 loss 138.611877 this epoch time 16:17:11.962397
+best dev-- mrr 0.238369 map 0.235619; test-- mrr 0.238369 map 0.235619
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 22000 loss 137.190323 this epoch time 17:05:42.478702
+best dev-- mrr 0.238858 map 0.236105; test-- mrr 0.238858 map 0.236105
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 23000 loss 129.364822 this epoch time 17:54:05.703038
+NOT the best dev-- mrr 0.236378 map 0.233735; test-- mrr 0.236378 map 0.233735
+ Epoch 0 Training step 24000 loss 132.461288 this epoch time 18:42:12.509960
+NOT the best dev-- mrr 0.236812 map 0.234264; test-- mrr 0.236812 map 0.234264
+ Epoch 0 Training step 25000 loss 126.458824 this epoch time 19:30:18.775155
+NOT the best dev-- mrr 0.234433 map 0.232065; test-- mrr 0.234433 map 0.232065
+ Epoch 0 Training step 26000 loss 130.433365 this epoch time 20:18:33.095673
+NOT the best dev-- mrr 0.236848 map 0.234181; test-- mrr 0.236848 map 0.234181
+ Epoch 0 Training step 27000 loss 122.036934 this epoch time 21:06:55.302011
+NOT the best dev-- mrr 0.235425 map 0.232999; test-- mrr 0.235425 map 0.232999
+ Epoch 0 Training step 28000 loss 122.931244 this epoch time 21:55:19.067409
+NOT the best dev-- mrr 0.235106 map 0.232538; test-- mrr 0.235106 map 0.232538
+ Epoch 0 Training step 29000 loss 124.699112 this epoch time 22:43:27.143128
+NOT the best dev-- mrr 0.237262 map 0.234686; test-- mrr 0.237262 map 0.234686
+ Epoch 0 Training step 30000 loss 114.231483 this epoch time 23:31:45.696471
+ Epoch 0 Training step 1000 loss 486.050018 this epoch time 0:07:41.446387
+ Epoch 0 Training step 1000 loss 506.921844 this epoch time 0:07:41.366136
+best dev-- mrr 0.202727 map 0.199858; test-- mrr 0.202727 map 0.199858
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 2000 loss 248.215393 this epoch time 0:56:16.985559
+best dev-- mrr 0.228768 map 0.225974; test-- mrr 0.228768 map 0.225974
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 3000 loss 216.311478 this epoch time 1:44:47.061900
+best dev-- mrr 0.237505 map 0.234602; test-- mrr 0.237505 map 0.234602
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 4000 loss 200.556961 this epoch time 2:33:16.373328
+best dev-- mrr 0.246019 map 0.242956; test-- mrr 0.246019 map 0.242956
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 5000 loss 183.834793 this epoch time 3:21:47.427681
+best dev-- mrr 0.248153 map 0.244807; test-- mrr 0.248153 map 0.244807
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 6000 loss 181.962296 this epoch time 4:10:14.487238
+best dev-- mrr 0.250913 map 0.248184; test-- mrr 0.250913 map 0.248184
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 7000 loss 169.920731 this epoch time 4:58:47.620843
+best dev-- mrr 0.252305 map 0.249365; test-- mrr 0.252305 map 0.249365
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 8000 loss 169.677490 this epoch time 5:47:11.184858
+best dev-- mrr 0.253981 map 0.250882; test-- mrr 0.253981 map 0.250882
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 9000 loss 160.755905 this epoch time 6:35:28.023094
+best dev-- mrr 0.257025 map 0.253778; test-- mrr 0.257025 map 0.253778
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 10000 loss 155.265808 this epoch time 7:23:53.903449
+best dev-- mrr 0.257685 map 0.254551; test-- mrr 0.257685 map 0.254551
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 11000 loss 157.728256 this epoch time 8:12:25.511061
+best dev-- mrr 0.259242 map 0.256416; test-- mrr 0.259242 map 0.256416
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 12000 loss 146.043427 this epoch time 9:00:50.501683
+best dev-- mrr 0.260173 map 0.257192; test-- mrr 0.260173 map 0.257192
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 13000 loss 136.176758 this epoch time 9:49:15.281615
+best dev-- mrr 0.262634 map 0.259325; test-- mrr 0.262634 map 0.259325
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 14000 loss 147.880875 this epoch time 10:37:45.974353
+best dev-- mrr 0.265938 map 0.262561; test-- mrr 0.265938 map 0.262561
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 15000 loss 132.192154 this epoch time 11:26:17.570122
+best dev-- mrr 0.269997 map 0.266482; test-- mrr 0.269997 map 0.266482
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 16000 loss 137.386093 this epoch time 12:14:54.124001
+NOT the best dev-- mrr 0.266535 map 0.263348; test-- mrr 0.266535 map 0.263348
+ Epoch 0 Training step 17000 loss 132.351700 this epoch time 13:03:24.582976
+NOT the best dev-- mrr 0.267500 map 0.264222; test-- mrr 0.267500 map 0.264222
+ Epoch 0 Training step 18000 loss 126.574097 this epoch time 13:51:59.703910
+NOT the best dev-- mrr 0.267054 map 0.263836; test-- mrr 0.267054 map 0.263836
+ Epoch 0 Training step 19000 loss 128.296539 this epoch time 14:40:29.210590
+best dev-- mrr 0.271434 map 0.268000; test-- mrr 0.271434 map 0.268000
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 20000 loss 116.453667 this epoch time 15:28:59.564142
+NOT the best dev-- mrr 0.266167 map 0.262995; test-- mrr 0.266167 map 0.262995
+ Epoch 0 Training step 21000 loss 122.973938 this epoch time 16:17:25.705107
+NOT the best dev-- mrr 0.269334 map 0.266127; test-- mrr 0.269334 map 0.266127
+ Epoch 0 Training step 22000 loss 119.679893 this epoch time 17:05:55.277231
+NOT the best dev-- mrr 0.268156 map 0.265075; test-- mrr 0.268156 map 0.265075
+ Epoch 0 Training step 23000 loss 115.170982 this epoch time 17:54:15.694571
+NOT the best dev-- mrr 0.269672 map 0.266496; test-- mrr 0.269672 map 0.266496
+ Epoch 0 Training step 24000 loss 115.778267 this epoch time 18:42:44.666055
+NOT the best dev-- mrr 0.269511 map 0.266519; test-- mrr 0.269511 map 0.266519
+ Epoch 0 Training step 25000 loss 108.550583 this epoch time 19:31:13.058535
+NOT the best dev-- mrr 0.270178 map 0.266915; test-- mrr 0.270178 map 0.266915
+ Epoch 0 Training step 26000 loss 113.714966 this epoch time 20:19:27.976226
+NOT the best dev-- mrr 0.270443 map 0.267230; test-- mrr 0.270443 map 0.267230
+ Epoch 0 Training step 27000 loss 107.421288 this epoch time 21:07:37.274204
+NOT the best dev-- mrr 0.269353 map 0.266157; test-- mrr 0.269353 map 0.266157
+ Epoch 0 Training step 28000 loss 109.142525 this epoch time 21:55:51.112305
+NOT the best dev-- mrr 0.270650 map 0.267690; test-- mrr 0.270650 map 0.267690
+ Epoch 0 Training step 29000 loss 109.893562 this epoch time 22:44:04.630556
+NOT the best dev-- mrr 0.267006 map 0.263890; test-- mrr 0.267006 map 0.263890
+ Epoch 0 Training step 30000 loss 100.049034 this epoch time 23:32:18.445453
+NOT the best dev-- mrr 0.266782 map 0.263973; test-- mrr 0.266782 map 0.263973
+ Epoch 0 Training step 31000 loss 105.359962 this epoch time 1 day, 0:20:37.887231
+best dev-- mrr 0.271074 map 0.268184; test-- mrr 0.271074 map 0.268184
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 32000 loss 99.884888 this epoch time 1 day, 1:09:01.048507
+NOT the best dev-- mrr 0.269741 map 0.266644; test-- mrr 0.269741 map 0.266644
+ Epoch 0 Training step 33000 loss 102.274857 this epoch time 1 day, 1:57:30.153353
+NOT the best dev-- mrr 0.268084 map 0.264865; test-- mrr 0.268084 map 0.264865
+ Epoch 0 Training step 34000 loss 98.152824 this epoch time 1 day, 2:45:57.350759
+NOT the best dev-- mrr 0.268643 map 0.265726; test-- mrr 0.268643 map 0.265726
+ Epoch 0 Training step 35000 loss 93.107574 this epoch time 1 day, 3:34:24.662366
+NOT the best dev-- mrr 0.267944 map 0.264810; test-- mrr 0.267944 map 0.264810
+ Epoch 0 Training step 36000 loss 97.209694 this epoch time 1 day, 4:22:47.130538
+NOT the best dev-- mrr 0.268930 map 0.265634; test-- mrr 0.268930 map 0.265634
+ Epoch 0 Training step 37000 loss 95.970108 this epoch time 1 day, 5:11:08.443125
+NOT the best dev-- mrr 0.265327 map 0.262428; test-- mrr 0.265327 map 0.262428
+ Epoch 0 Training step 38000 loss 93.690147 this epoch time 1 day, 5:59:23.049271
+NOT the best dev-- mrr 0.269049 map 0.265932; test-- mrr 0.269049 map 0.265932
+ Epoch 0 Training step 39000 loss 95.296494 this epoch time 1 day, 6:47:36.452917
+NOT the best dev-- mrr 0.270857 map 0.267462; test-- mrr 0.270857 map 0.267462
+ Epoch 0 Training step 40000 loss 86.062767 this epoch time 1 day, 7:36:03.191878
+NOT the best dev-- mrr 0.269364 map 0.266315; test-- mrr 0.269364 map 0.266315
+ Epoch 0 Training step 41000 loss 94.289772 this epoch time 1 day, 8:24:30.171006
+NOT the best dev-- mrr 0.265205 map 0.261980; test-- mrr 0.265205 map 0.261980
+ Epoch 0 Training step 42000 loss 90.182220 this epoch time 1 day, 9:12:54.212545
+NOT the best dev-- mrr 0.269084 map 0.265692; test-- mrr 0.269084 map 0.265692
+ Epoch 0 Training step 43000 loss 88.887711 this epoch time 1 day, 10:01:18.368811
+NOT the best dev-- mrr 0.268287 map 0.265208; test-- mrr 0.268287 map 0.265208
+ Epoch 0 Training step 44000 loss 88.728745 this epoch time 1 day, 10:49:34.891725
+NOT the best dev-- mrr 0.270062 map 0.266815; test-- mrr 0.270062 map 0.266815
+ Epoch 0 Training step 45000 loss 81.382385 this epoch time 1 day, 11:37:45.588893
+NOT the best dev-- mrr 0.268991 map 0.265597; test-- mrr 0.268991 map 0.265597
+ Epoch 0 Training step 46000 loss 86.380562 this epoch time 1 day, 12:25:53.884460
+NOT the best dev-- mrr 0.270344 map 0.267033; test-- mrr 0.270344 map 0.267033
+ Epoch 0 Training step 47000 loss 82.947403 this epoch time 1 day, 13:14:12.586067
+NOT the best dev-- mrr 0.270561 map 0.267373; test-- mrr 0.270561 map 0.267373
+ Epoch 0 Training step 48000 loss 81.438416 this epoch time 1 day, 14:02:32.879937
+best dev-- mrr 0.271616 map 0.268560; test-- mrr 0.271616 map 0.268560
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 49000 loss 85.262589 this epoch time 1 day, 14:50:56.414399
+best dev-- mrr 0.272937 map 0.269580; test-- mrr 0.272937 map 0.269580
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 50000 loss 77.824310 this epoch time 1 day, 15:39:20.087753
+NOT the best dev-- mrr 0.270521 map 0.267272; test-- mrr 0.270521 map 0.267272
+ Epoch 0 Training step 51000 loss 83.091576 this epoch time 1 day, 16:27:44.062265
+NOT the best dev-- mrr 0.269508 map 0.266464; test-- mrr 0.269508 map 0.266464
+ Epoch 0 Training step 52000 loss 76.643570 this epoch time 1 day, 17:16:07.929176
+NOT the best dev-- mrr 0.271611 map 0.268478; test-- mrr 0.271611 map 0.268478
+ Epoch 0 Training step 53000 loss 78.804504 this epoch time 1 day, 18:04:29.313812
+NOT the best dev-- mrr 0.270773 map 0.267620; test-- mrr 0.270773 map 0.267620
+ Epoch 0 Training step 54000 loss 78.223991 this epoch time 1 day, 18:52:47.625097
+NOT the best dev-- mrr 0.268050 map 0.264870; test-- mrr 0.268050 map 0.264870
+ Epoch 0 Training step 55000 loss 76.107460 this epoch time 1 day, 19:41:08.581967
+NOT the best dev-- mrr 0.266193 map 0.263187; test-- mrr 0.266193 map 0.263187
+ Epoch 0 Training step 56000 loss 77.164703 this epoch time 1 day, 20:29:30.797707
+NOT the best dev-- mrr 0.270677 map 0.267419; test-- mrr 0.270677 map 0.267419
+ Epoch 0 Training step 57000 loss 71.944626 this epoch time 1 day, 21:17:48.247525
+NOT the best dev-- mrr 0.269831 map 0.266592; test-- mrr 0.269831 map 0.266592
+ Epoch 0 Training step 58000 loss 73.697052 this epoch time 1 day, 22:06:06.979368
+ Epoch 0 Training step 1000 loss 543.947205 this epoch time 0:07:42.263910
+best dev-- mrr 0.195324 map 0.192614; test-- mrr 0.195324 map 0.192614
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 2000 loss 254.302094 this epoch time 0:56:22.731054
+best dev-- mrr 0.227773 map 0.225158; test-- mrr 0.227773 map 0.225158
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 3000 loss 219.264511 this epoch time 1:45:00.907604
+best dev-- mrr 0.234886 map 0.232368; test-- mrr 0.234886 map 0.232368
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 4000 loss 201.625839 this epoch time 2:33:35.207172
+best dev-- mrr 0.242627 map 0.239812; test-- mrr 0.242627 map 0.239812
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 5000 loss 183.984085 this epoch time 3:22:10.177026
+best dev-- mrr 0.247700 map 0.244888; test-- mrr 0.247700 map 0.244888
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 6000 loss 182.556107 this epoch time 4:10:38.213737
+best dev-- mrr 0.249049 map 0.245955; test-- mrr 0.249049 map 0.245955
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 7000 loss 170.820511 this epoch time 4:59:12.873119
+best dev-- mrr 0.249810 map 0.246707; test-- mrr 0.249810 map 0.246707
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 8000 loss 172.389252 this epoch time 5:47:54.742652
+NOT the best dev-- mrr 0.248478 map 0.245705; test-- mrr 0.248478 map 0.245705
+ Epoch 0 Training step 9000 loss 161.844269 this epoch time 6:36:23.977630
+NOT the best dev-- mrr 0.249508 map 0.246563; test-- mrr 0.249508 map 0.246563
+ Epoch 0 Training step 10000 loss 156.663254 this epoch time 7:24:50.826275
+best dev-- mrr 0.256019 map 0.252675; test-- mrr 0.256019 map 0.252675
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 11000 loss 160.308563 this epoch time 8:13:13.677734
+NOT the best dev-- mrr 0.253757 map 0.250666; test-- mrr 0.253757 map 0.250666
+ Epoch 0 Training step 12000 loss 149.229309 this epoch time 9:01:33.274012
+best dev-- mrr 0.257702 map 0.254653; test-- mrr 0.257702 map 0.254653
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 13000 loss 137.116684 this epoch time 9:50:00.163022
+best dev-- mrr 0.260567 map 0.257545; test-- mrr 0.260567 map 0.257545
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 14000 loss 146.305084 this epoch time 10:38:35.977878
+best dev-- mrr 0.263340 map 0.260267; test-- mrr 0.263340 map 0.260267
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 15000 loss 132.307724 this epoch time 11:27:08.213450
+NOT the best dev-- mrr 0.262952 map 0.259982; test-- mrr 0.262952 map 0.259982
+ Epoch 0 Training step 16000 loss 138.764191 this epoch time 12:15:42.200992
+best dev-- mrr 0.264000 map 0.261049; test-- mrr 0.264000 map 0.261049
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 17000 loss 134.277954 this epoch time 13:04:19.887702
+best dev-- mrr 0.265811 map 0.263028; test-- mrr 0.265811 map 0.263028
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 18000 loss 129.329926 this epoch time 13:52:57.443830
+NOT the best dev-- mrr 0.265207 map 0.262004; test-- mrr 0.265207 map 0.262004
+ Epoch 0 Training step 19000 loss 128.710953 this epoch time 14:41:29.559162
+NOT the best dev-- mrr 0.263243 map 0.260190; test-- mrr 0.263243 map 0.260190
+ Epoch 0 Training step 20000 loss 118.910919 this epoch time 15:30:01.005489
+best dev-- mrr 0.269079 map 0.265985; test-- mrr 0.269079 map 0.265985
+    - [Info] The checkpoint file has been updated.
+ Epoch 0 Training step 21000 loss 122.513206 this epoch time 16:18:30.778922
+NOT the best dev-- mrr 0.268623 map 0.265654; test-- mrr 0.268623 map 0.265654
+ Epoch 0 Training step 22000 loss 121.649261 this epoch time 17:06:54.725103
+NOT the best dev-- mrr 0.266875 map 0.263866; test-- mrr 0.266875 map 0.263866
+ Epoch 0 Training step 23000 loss 114.892227 this epoch time 17:55:23.737936
+NOT the best dev-- mrr 0.265356 map 0.262442; test-- mrr 0.265356 map 0.262442
+ Epoch 0 Training step 24000 loss 117.304131 this epoch time 18:43:57.779872
+NOT the best dev-- mrr 0.265365 map 0.262235; test-- mrr 0.265365 map 0.262235
+ Epoch 0 Training step 25000 loss 111.739777 this epoch time 19:32:16.937385
